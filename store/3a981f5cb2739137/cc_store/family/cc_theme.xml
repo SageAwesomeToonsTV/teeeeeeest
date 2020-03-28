@@ -425,7 +425,7 @@
 <selection type="mouth" state_id="default"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_thinkingdisgusted" name="Thinking - Disgusted" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -438,7 +438,7 @@
 <selection type="mouth" state_id="sad"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_thinkingsad" name="Thinking - Sad" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -451,7 +451,7 @@
 <selection type="mouth" state_id="sad"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_smile" name="Smile" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -464,7 +464,7 @@
 <selection type="mouth" state_id="happy"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_thinkhappy" name="Think - Happy" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -477,7 +477,7 @@
 <selection type="mouth" state_id="happy"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_naughty" name="Naughty" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -490,7 +490,7 @@
 <selection type="mouth" state_id="default"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_sweaty" name="Sweaty" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -503,7 +503,7 @@
 <selection type="mouth" state_id="cry"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_snoring" name="Snoring" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
@@ -516,7 +516,7 @@
 <selection type="mouth" state_id="yawn"/>
 <selection type="mustache" state_id="default"/>
 <selection type="nose" state_id="default"/>
-/facial>
+</facial>
 <facial id="head_evillaugh" name="Evil Laugh" enable="Y">
 <selection type="beard" state_id="default"/>
 <selection type="ear" state_id="default"/>
